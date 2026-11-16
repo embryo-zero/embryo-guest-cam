@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Guest Cam
+
+**Embryo Guest Cam** is Embryo-Zero's fork of [VDO.Ninja](https://github.com/steveseguin/vdo.ninja), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 
 <img src="https://github.com/user-attachments/assets/8134f167-2ea5-42e8-9450-b7aed322b6b0" width="300" />
 
